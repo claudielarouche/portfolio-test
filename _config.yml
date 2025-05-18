@@ -1,4 +1,4 @@
 title: Portfolio Test
-remote_theme: claudielarouche/portfolio-theme
+remote_theme: claudielarouche/claudielarouche
 plugins:
   - jekyll-remote-theme
