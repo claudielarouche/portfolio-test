@@ -3,3 +3,4 @@ remote_theme: claudielarouche/portfolio-theme
 plugins:
   - jekyll-remote-theme
 
+baseurl: "/portfolio-test"
