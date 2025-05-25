@@ -7,3 +7,16 @@ baseurl: "/portfolio-test"
 
 plugins:
   - jekyll-feed
+
+# Tell Jekyll about your projects collection:
+collections:
+  projects:
+    output: true     # so each project generates its own page
+
+# (Optional) auto-apply your project layout to each file:
+defaults:
+  - scope:
+      path: ""       # all files
+      type: "projects"
+    values:
+      layout: project
