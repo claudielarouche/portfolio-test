@@ -1,15 +1,11 @@
 ---
 title: Home
+layout: home
 ---
-# Welcome!
-This is a test of the remote theme.
 
-{% include alert.html type="info" content="It works!" %}
+This is a demo of Claudie's Portfolio Website.
 
-## Projects
+You can purchase your own porfolio website here: 
 
-<ul class="project-list">
-{% for proj in site.projects %}
-  <li><a href="{{ proj.url | relative_url }}">{{ proj.title }}</a></li>
-{% endfor %}
-</ul>
+{% include project_list.html %}
+
