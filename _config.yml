@@ -20,3 +20,10 @@ defaults:
       type: "projects"
     values:
       layout: project
+
+  # Every post (in _posts/) uses layout: post
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
