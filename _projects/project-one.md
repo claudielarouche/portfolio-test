@@ -2,7 +2,7 @@
 title: My Project Number 1
 ---
 
-This is project 1. If you want to see examples of components, head over to [Project 2](https://claudielarouche.github.io/portfolio-test/projects/project-two.html)!
+This is project 1. If you want to see a slightly different project, head over to [Project 2](https://claudielarouche.github.io/portfolio-test/projects/project-two.html)!
 
 Text within a project page can be formatted using the **Markdown Language**. 
 
@@ -12,11 +12,11 @@ It is very simple to add titles too!
 
 ### As for me, I am a third level title
 
-Did I mention you can add images? Here is the flower again
+Did I mention you can add images? Here is an image of flowers.
 
 ![Flower](/portfolio-test/images/flower.jpg)
 
-I think I would like to add a table. That's also possible and it looks great.
+You might want to add tables. That's also possible and here's what it will look like. 
 
 | Product | Price | Available |
 |---------|-------|-----------|
@@ -24,11 +24,11 @@ I think I would like to add a table. That's also possible and it looks great.
 | Widget B | $20 | No |
 | Widget C | $15 | Yes |
 
-Below is how this page is "coded" in the background:
+Below is how this page is "coded" in the background. As you can see, no need for complex HTML!
 
 ```
 
-This is project 1. If you want to see examples of components, head over to [Project 2](https://claudielarouche.github.io/portfolio-test/projects/project-two.html)!
+This is project 1. If you want to see a slightly different project, head over to [Project 2](https://claudielarouche.github.io/portfolio-test/projects/project-two.html)!
 
 Text within a project page can be formatted using the **Markdown Language**. 
 
@@ -38,11 +38,11 @@ It is very simple to add titles too!
 
 ### As for me, I am a third level title
 
-Did I mention you can add images? Here is the flower again
+Did I mention you can add images? Here is an image of flowers.
 
 ![Flower](/portfolio-test/images/flower.jpg)
 
-I think I would like to add a table. That's also possible and it looks great.
+You might want to add tables. That's also possible and here's what it will look like. 
 
 | Product | Price | Available |
 |---------|-------|-----------|
