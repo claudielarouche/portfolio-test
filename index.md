@@ -9,5 +9,5 @@ This is a demo of Claudie's Portfolio Website.
 
 You can [purchase your own porfolio website here](https://claudielarouche.com/projects/portfolio-website/).
 
-{% include project_list.html %}
+{% include projects_by_category.html %}
 
