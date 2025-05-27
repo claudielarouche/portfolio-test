@@ -1,4 +1,7 @@
 title: Portfolio Test
+author: Claudie Larouche
+email: claudielarouche@gmail.com
+lang: "en"
 remote_theme: claudielarouche/portfolio-theme
 plugins:
   - jekyll-remote-theme
